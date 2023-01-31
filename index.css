@@ -263,9 +263,6 @@ section:nth-of-type(even) {
   height: 60%;
   width: 80%;
   color: white;
-  border-left: 1px solid white;
-  border-right: 1px solid white;
-  border-radius: 5px;
 }
 
 /* -------progress bars --------------- */
@@ -351,7 +348,7 @@ section:nth-of-type(even) {
 
 
 /* ----------------------certs div -------------------- */
-.certs{
+/* .certs{
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -360,7 +357,7 @@ section:nth-of-type(even) {
   width: 50%;
   padding-top: 20px;
   right: 0;
-  /* background-color: red; */
+   background-color: red;
 }
 
 .docs{
@@ -375,7 +372,7 @@ section:nth-of-type(even) {
   backdrop-filter: blur(3.6px);
   -webkit-backdrop-filter: blur(3.6px);
   border: 1px solid rgba(255, 255, 255, 0.35);
-}
+}  */
 
 
 

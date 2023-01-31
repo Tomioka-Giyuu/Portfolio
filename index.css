@@ -195,9 +195,9 @@ section:nth-of-type(even) {
   width: 70%;
   padding: 0px;
   text-align: left;
-  font-size: 15px;
+  font-size: large;
   color: black;
-  height:max-content;
+  /* height:max-content; */
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -215,7 +215,6 @@ section:nth-of-type(even) {
 .whoami span p{
   text-align: justify;
   letter-spacing: 1px;
-  line-height: 25px;
 }
 
 

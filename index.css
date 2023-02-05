@@ -207,9 +207,6 @@ section:nth-of-type(even) {
 .whoami > span{
   margin-top: 80px;
   padding: 0px;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  border-radius: 5px;
 }
 
 .whoami span p{
